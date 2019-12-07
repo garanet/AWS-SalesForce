@@ -1,12 +1,11 @@
 # AWS-SalesForce
-Lambda Python 3 script to for AWS for the Sales Forces Query.
+Python 3 script for AWS lambda, cloud9 and parquet to run the Sales Forces Query.
 # Sales Force API
  
 This README file explains how the script works. 
 The API_SalesForce.py script contains the API with queries and functions.
 The aws_sf_lambda.py script contains the API for a AWS Lambda. 
 The reqs.txt file is needed for the installation. 
-The XLS file is a Report measurement. 
  
   - Information 
   - Requirements 
